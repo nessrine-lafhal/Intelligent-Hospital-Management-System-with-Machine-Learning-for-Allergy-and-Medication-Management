@@ -39,3 +39,6 @@ remain accurate and up-to-date.
 By combining advanced machine learning techniques and robust model evaluation, this system
 aims to provide reliable diagnostic predictions and support healthcare professionals in their
 decision-making process
+
+![Description de l'image](URL-de-l-image)
+
